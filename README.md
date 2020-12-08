@@ -4,6 +4,9 @@
 #### **These scripts create emission input files for FRAME-UK (point and diffuse emissions), plus input files for FRAME-Europe.**
 ######################################################################################
 
+#### for NFC 2018: FRAME is v. frame-9.15_17_1kb_2018 (@ 1km x 1km). Run on Rogue.
+######################################################################################
+
 **Process steps:**
 ----------------
 
